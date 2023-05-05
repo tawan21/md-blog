@@ -14,7 +14,7 @@ const getPosts = async () => {
     }
   }
 
-  posts.sort((f, s) => new Date(s.date).getTime() - new Date(f.date).getTime());
+  posts.sort((f, s) => new Date(f.date).getTime() - new Date(s.date).getTime());
 
   return posts;
 }

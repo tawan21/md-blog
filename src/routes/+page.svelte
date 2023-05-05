@@ -8,12 +8,12 @@
 </script>
 
 <svelte:head>
-  <title>Hello</title>
+  <title>About Me</title>
 </svelte:head>
 
-<div class="mt-4 container mx-auto flex flex-col space-y-4">
+<div class="max-w-6xl mx-auto flex flex-col space-y-4">
   {#each data.posts as post}
-    <div class="card p-4">
+    <div class="card card-hover p-4">
       <header class="card-header p-4">
         <h3><a href={post.slug}>{post.title}</a></h3>
       </header>

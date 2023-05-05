@@ -9,7 +9,7 @@
 	},
 	"devDependencies": {
 		"@skeletonlabs/skeleton": "^1.2.5",
-		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/adapter-vercel": "^2.4.3",
 		"@sveltejs/kit": "^1.5.0",
 		"autoprefixer": "^10.4.14",
 		"mdsvex": "^0.10.6",
@@ -20,6 +20,9 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"rehype-slug": "^5.1.0",
+		"remark-toc": "^8.0.1",
+		"remark-unwrap-images": "^3.0.1",
 		"shiki": "^0.14.2"
 	}
 }
