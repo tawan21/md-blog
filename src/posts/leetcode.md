@@ -7,6 +7,6 @@ categories:
 published: true
 ---
 
-### [LeetCode](https://leetcode.com/tawan21)
-![](https://leetcard.jacoblin.cool/tawan21?ext=contest)
-![LeetCode Stats](https://leetcard.jacoblin.cool/tawan21?ext=heatmap)
+### [@tawan21](https://leetcode.com/tawan21)
+![](https://leetcard.jacoblin.cool/tawan21?ext=contest&theme=light)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/tawan21?ext=heatmap&theme=light)
